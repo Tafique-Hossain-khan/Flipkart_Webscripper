@@ -1,4 +1,4 @@
-# Flipkart Scraper
+# Flipkart WebScraper
 
 This project is a web scraper that extracts product information from the Flipkart website. It retrieves data such as product name, price, rating, product offers, seller name, and seller rating for a given search query.
 
