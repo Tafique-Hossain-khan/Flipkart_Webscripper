@@ -21,6 +21,7 @@ def main():
 
     # When the user clicks the submit button
     if submit_button:
+        st.info('Please wait while we scrape the website. This may take a few minutes...')
         # Call the scrap() function with the user's input
         scraped_data = scrab_flipkart.scrab(product_name)
 
